@@ -9,5 +9,6 @@
 <body>
     <h1>Esta es una pagina Index hola </h1>
     <h1>Hola esta es otra linea para VScode</h1>
+    <h2>Este es una nueva linea de codigo para GitHub</h2>
 </body>
 </html>
